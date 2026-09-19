@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Parcial2Application<parcial2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.parcial.proveedor.Parcial2Application",
+            "projectName": "parcial2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
